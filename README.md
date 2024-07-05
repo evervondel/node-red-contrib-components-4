@@ -2,6 +2,8 @@
 Components are an alternative approach to create reusable node-red flows and are
 very much inspired by [action flows](https://github.com/Steveorevo/node-red-contrib-actionflows/tree/master/actionflows).
 
+Forked of orginal https://github.com/ollixx/node-red-contrib-components to make it Node-RED 4.x compatible
+
 ![Components](/images/components.png)
 
 ## Motivation
